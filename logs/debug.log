@@ -1,0 +1,80 @@
+Apr 28, 2023 6:08:22 PM SuggestionEngine main
+INFO: Info Log
+Apr 28, 2023 6:08:22 PM SuggestionEngine suggest
+INFO: Building the parse tree...
+Apr 28, 2023 6:08:22 PM SuggestionEngine suggest
+INFO: Built the parse tree...(took 0 seconds)
+Apr 28, 2023 6:08:22 PM SuggestionEngine suggest
+INFO: Collecting the public method names...
+Apr 28, 2023 6:08:22 PM SuggestionEngine suggest
+INFO: Collected the public method names...
+Apr 28, 2023 6:08:22 PM SuggestionEngine suggest
+INFO: [arraycopy, clearProperty, currentTimeMillis, exit, gc, getenv, getenv, getProperties, getProperty, getProperty, getSecurityManager, helloIl, ageOfIlker, helloEl, helloE, helloIlke]
+Apr 28, 2023 6:08:22 PM SuggestionEngine suggest
+INFO: Finding the suggestions...
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for arraycopy
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 8.0 for arraycopy
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for clearProperty
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 11.0 for clearProperty
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for currentTimeMillis
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 14.0 for currentTimeMillis
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for exit
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 4.0 for exit
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for gc
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 5.0 for gc
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for getenv
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 5.0 for getenv
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for getenv
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 5.0 for getenv
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for getProperties
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 11.0 for getProperties
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for getProperty
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 9.0 for getProperty
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for getProperty
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 9.0 for getProperty
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for getSecurityManager
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 17.0 for getSecurityManager
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for helloIl
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 2.0 for helloIl
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for ageOfIlker
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 8.0 for ageOfIlker
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for helloEl
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 2.0 for helloEl
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for helloE
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 1.0 for helloE
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Calculating distance for helloIlke
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: Distance is 4.0 for helloIlke
+Apr 28, 2023 6:08:22 PM SuggestionEngine getTopKNeighbor
+INFO: 4Methods are selected!
